@@ -23,7 +23,7 @@ El propósito es aprender a integrar herramientas de traducción automática en 
 ![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
 
 - Python
-- translate (biblioteca de Python)
+- `translate` (biblioteca de Python)
 
 ### Proyecto
 

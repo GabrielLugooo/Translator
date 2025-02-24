@@ -23,7 +23,7 @@ The goal is to learn how to integrate automatic translation tools in Python and 
 ![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
 
 - Python
-- translate (Python library)
+- `translate` (Python library)
 
 ### Project
 
