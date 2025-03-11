@@ -21,6 +21,7 @@ The goal is to learn how to integrate automatic translation tools in Python and 
 ### Tools Used
 
 ![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Translate-000000?logo=googletranlate&logoSize=auto)
 
 - Python
 - `translate` (Python library)
