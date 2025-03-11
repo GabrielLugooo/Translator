@@ -21,7 +21,7 @@ El propósito es aprender a integrar herramientas de traducción automática en 
 ### Herramientas Usadas
 
 ![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/Translate-000000?logo=googletranlate&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Translate-000000?logo=googletranslate&logoSize=auto)
 
 - Python
 - `translate` (biblioteca de Python)
